@@ -33,7 +33,7 @@ Slodon aims to be an AI agent on Linux(first)
 ---
 ## About:
 
-Slodon is an AI agent that's all about helping you take charge of UserSpace programs (user_land) by offering automated features driven by massive language models.
+Slodon is an AI agent that's all about helping you take charge of [UserSpace programs](https://en.wikipedia.org/wiki/User_space_and_kernel_space#:~:text=User%20space%20usually%20refers%20to,objects%2C%20application%20software%2C%20etc.) (user_land) by offering [automated features](https://github.com/FlurryGlo/slodon/tree/main/slodon/slodonix) driven by massive language models.
 
 ---
 ## How to be part of the project:
@@ -49,7 +49,7 @@ For more information: [monetization plan](https://github.com/FlurryGlo/slodon/bl
 
 ## Details:
 
-The goal of Slodon is to be able to control applications over user_space and help automate interactions. The "software" is "only" a CLI application where the process begins. It would use automation features something similar to "pyautogui", powered by Xlib. The Model would be trained on a huge amount of Linux source code including applications on different distributions and graphical(desktop) interface such as KDE, and GNOME. In the future, Slodon can be extended on Windows and macOS. Combining the model, the automated features, huge language models and the "task" based system(AutoGpt) that Slodon provides can be helpful for people. 
+The goal of Slodon is to be able to control applications over [user_space](https://en.wikipedia.org/wiki/User_space_and_kernel_space#:~:text=User%20space%20usually%20refers%20to,objects%2C%20application%20software%2C%20etc.) and help [automate interactions](https://github.com/FlurryGlo/slodon/tree/main/slodon/slodonix). The "software" is "only" a CLI application where the process begins. It would use [automation features](https://github.com/FlurryGlo/slodon/tree/main/slodon/slodonix) something similar to "pyautogui", powered by Xlib(the theory is same). The Model would be trained on a huge amount of Linux source code including applications on different distributions and graphical(desktop) interface such as KDE, and GNOME. In the future, Slodon can be extended on Windows and macOS. Combining the model, the automated features, huge language models and the "task" based system(AutoGpt) that Slodon provides can be helpful for people. 
 
 ---
 [Python](https://www.python.org/) (version 3.11-3.12)

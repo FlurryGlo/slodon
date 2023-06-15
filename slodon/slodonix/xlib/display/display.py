@@ -10,11 +10,12 @@ class Display(BaseDisplay):
 
     A set of screens for a single user with one keyboards and one pointer(usually a mouse) is called a display.
     """
+
     def __init__(self, display) -> None:
         super().__init__(display=display)
 
 
-def open_display(name=os.environ['DISPLAY']) -> Display:
+def open_display(name=os.environ["DISPLAY"]) -> Display:
     """
     Open a display
 

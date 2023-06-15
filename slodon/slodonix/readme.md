@@ -3,5 +3,6 @@ To handle this, we utilize a sub-library which effectively manages all the neces
 Thus, we develop the `slodonix` library, which is a wrapper around  [Xlib](https://www.x.org/wiki/) and provides a more pythonic interface.
 
 ---
+This sub-lib can be an independent library in the future.
 
 The corresponding [MIRO TABLE](https://miro.com/app/board/uXjVMCWiS68=/?share_link_id=600250455221)

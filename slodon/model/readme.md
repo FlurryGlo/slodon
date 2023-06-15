@@ -1,0 +1,1 @@
+The model should be trained to generate step-by-step instructions or actions based on a given prompt or context(based-on-linux-insctructions) if you want to see a real-time scenario read the example part in the `pdf`.

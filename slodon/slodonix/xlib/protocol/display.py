@@ -1,4 +1,3 @@
-
 import uuid
 
 # This project
@@ -10,6 +9,7 @@ class BaseDisplay:
 
     class Meta:
         """Meta-information for all displays"""
+
         def __init__(self, **kwargs):
             self.data = kwargs
 
@@ -31,11 +31,12 @@ class BaseDisplay:
         # Connection here
         self.connection = Connection(display)
 
-        self.meta = self.Meta(display_name=self.display_name,
-                              default_screen=self.default_screen,
-                              connection=self.connection)
+        self.meta = self.Meta(
+            display_name=self.display_name,
+            default_screen=self.default_screen,
+            connection=self.connection,
+        )
 
     def close(self):
         """Close the display"""
         self.connection.close()
-

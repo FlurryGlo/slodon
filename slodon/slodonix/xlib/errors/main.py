@@ -1,4 +1,4 @@
-__all__ = ['DisplayNameError', "DisplayConnectionError"]
+__all__ = ["DisplayNameError", "DisplayConnectionError"]
 
 
 class DisplayError(Exception):
@@ -19,5 +19,3 @@ class ConnectionClosedError(Exception):
 
 class XError(Exception):
     pass
-
-

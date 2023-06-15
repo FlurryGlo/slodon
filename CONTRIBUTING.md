@@ -1,7 +1,7 @@
 # I'm in! Now what?
 
 ### Introduction:
-- [Join the FlurryGLo Discord Server!](https://discord.gg/Ev675xQSne)
+- [Join the Hadhzy Discord Server!](https://discord.gg/Qt89JBB2ES)
 
 - [Visit the tasks handling page!](https://github.com/orgs/FlurryGlo/projects/4)
 

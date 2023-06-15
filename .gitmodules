@@ -1,0 +1,3 @@
+[submodule "slodon/SlodonIX"]
+	path = slodon/SlodonIX
+	url = https://github.com/Hadhzy/SlodonIX.git
